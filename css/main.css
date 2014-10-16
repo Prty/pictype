@@ -1,0 +1,314 @@
+
+body, html {
+	width: 100%;
+	height: 100%;
+	font-size: 20px;
+	margin: 0;
+	padding: 0;	
+	/*background-color: #f3f3f3;*/
+	background-image: url('../images/line.png');
+    /*background-repeat: repeat-y;*/
+    font-family: roboto;
+}
+
+
+.wrapper {
+	width: 70%;
+	height: 468px;
+	/*background-color: red;*/
+	margin: auto;
+	position: absolute;
+  	top: 0; left: 0; bottom: 120; right: 0;
+ 	max-width: 920px;
+}
+
+
+.pictypelogo {
+	width: 300px;
+	height: 83px;
+	margin: 0 auto;
+	margin-bottom: 24px;
+}
+
+
+.paper {
+	padding: 40 40 40 40;
+	/*background-color: rgba(90, 0, 0, 0.3);*/
+	background-color: white;
+	width: 88%;
+	height: 325px;
+
+}
+
+
+
+
+
+/*				*/
+/* PICTYPE CHAR */
+/*				*/
+
+/*.pictype-area {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+.pictype-char {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	width: 60px; 
+	height: 60px; 
+	opacity: 1;
+	float: left;
+	box-sizing: border-box;
+}
+
+.pictype-char img {
+	width: 100px;
+}
+
+.pictype-char:hover {
+	cursor: pointer;
+}
+
+.cursor {
+	margin: 0;
+	padding: 0;
+	width: 2px;
+	height: 45px;
+	border-left: 1px solid black;
+	float: left;
+	padding-top: 12px;
+}
+*/
+
+
+
+
+/*					 */
+/* TEXT AREA WRAPPER */
+/*					 */
+
+
+input, textarea, select, a { 
+	outline: none; 
+}
+
+
+textarea {
+	/*background: rgba(255, 255, 255, 0.4);*/
+/*	position: absolute;
+	top: 50;*/
+	/*width: 87%;*/
+	width: 100%;
+	height: 100%;
+	/*color: white;*/
+	color: black;
+	border: none; 
+	resize: none;
+	text-transform: uppercase;
+	font-size: 45px;
+	/*opacity: 0;*/
+	/*z-index: 1000000;*/
+	letter-spacing: 40px;
+	pointer-events: none;
+	/*background-color: red;*/
+	/*color: red;*/
+
+}
+
+
+
+.textareadiv {
+	width: 100%;
+	height: 100%;
+	/*background-color: red;*/
+	text-transform: uppercase;
+	font-size: 45px;
+	letter-spacing: 10px;
+	/*pointer-events: none;*/
+}
+
+
+.textareadiv:focus, input:focus{
+    outline: 0;
+}
+
+
+
+
+/*.cursor { 
+	font-size: 12px; 
+	background-color: red; 
+	color: red; 
+	/*opacity: 0.5; 
+}
+
+*/
+
+
+
+/*					*/
+/*  ANIMATE CURSOR   */
+/*					*/
+
+.cursor {
+    -webkit-animation: blink 1s infinite ; /* Chrome, Safari, Opera */
+    animation: blink 1s infinite ; /* Standard syntax */
+}
+
+@keyframes blink {
+    from 	{opacity: 0;}
+    to 		{opacity: 1;}
+}
+
+@-webkit-keyframes blink { /* Safari and Chrome */ 
+    from 	{opacity: 0;}
+    to 		{opacity: 1;}
+}
+
+
+
+
+
+
+/*					*/
+/*  	FOOTER      */
+/*					*/
+
+
+
+.blackbar {
+	background-color: black;
+	width: 100%;
+	height: 35px;
+	position: absolute;
+	bottom: 0;
+}
+
+
+.footerbar {
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	bottom: 35px;
+	background-color: white;
+
+}
+
+.privacy {
+	padding: 15 0 0 20;
+	font-size: 15px;
+	font-family: roboto;
+	color: #414141;
+	width: 200px;
+	height: auto;
+	/*background-color: red;*/
+	float: left;
+	cursor: pointer;
+}
+
+
+.icon {
+	float: left;
+	padding-left: 5px;
+}
+
+
+.icons {
+	width: 110px;
+	float: right;
+	margin-top: 12px;
+	cursor: pointer;
+
+}
+
+
+
+/*					*/
+/* ALPHABET LETTERS */
+/*					*/
+
+.pictype-char.a {
+	width: 60px;
+}
+.pictype-char.b {
+	width: 60px;
+}
+.pictype-char.c {
+	width: 60px;
+}
+.pictype-char.d {
+	width: 61px;
+}
+.pictype-char.e {
+	width: 56px;
+}
+.pictype-char.f {
+	width: 56px;
+}
+.pictype-char.g {
+	width: 62px;
+}
+.pictype-char.h {
+	width: 64px;
+}
+.pictype-char.i {
+	width: 38.4px;
+}
+.pictype-char.j {
+	width: 55px;
+}
+.pictype-char.k {
+	width: 60px;
+}
+.pictype-char.l {
+	width: 60px;
+}
+.pictype-char.m {
+	width: 74px;	
+}
+.pictype-char.n {
+	width: 74px;
+}
+.pictype-char.o {
+	width: 60px;
+}
+.pictype-char.p {
+	width: 60px;
+}
+.pictype-char.q {
+	width: 62px;
+}
+.pictype-char.r {
+	width: 60px;
+}
+.pictype-char.s {
+	width: 60px;
+}
+.pictype-char.t {
+	width: 56px;
+}
+.pictype-char.u {
+	width: 62px;
+}
+.pictype-char.v {
+	width: 60px;
+}
+.pictype-char.w {
+	width: 75px;
+}
+.pictype-char.x {
+	width: 60px;
+}
+.pictype-char.y {
+	width: 60px;
+}
+.pictype-char.z {
+	width: 55px;
+}
+
+
+

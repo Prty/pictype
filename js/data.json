@@ -1,0 +1,175 @@
+
+
+{
+
+	"alphabet":[
+		{
+			"letter" : "A",
+			"file": "non_looped/a.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "B",
+			"file": "non_looped/b.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "C",
+			"file": "non_looped/c.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "C",
+			"file": "non_looped/c.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "D",
+			"file": "non_looped/d.gif", 
+			"width" : "127"
+		},
+		{
+			"letter" : "E",
+			"file": "non_looped/e.gif", 
+			"width" : "118"
+		},
+		{
+			"letter" : "f",
+			"file": "non_looped/f.gif", 
+			"width" : "118"
+		},
+		{
+			"letter" : "G",
+			"file": "non_looped/g.gif", 
+			"width" : "129"
+		},
+		{
+			"letter" : "H",
+			"file": "non_looped/h.gif", 
+			"width" : "135"
+		},
+		{
+			"letter" : "I",
+			"file": "non_looped/i.gif", 
+			"width" : "80"
+		},
+		{
+			"letter" : "J",
+			"file": "non_looped/j.gif", 
+			"width" : "115"
+		},
+		{
+			"letter" : "K",
+			"file": "non_looped/k.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "L",
+			"file": "non_looped/l.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "M",
+			"file": "non_looped/m.gif", 
+			"width" : "155"
+		},
+		{
+			"letter" : "N",
+			"file": "non_looped/n.gif", 
+			"width" : "155"
+		},
+		{
+			"letter" : "O",
+			"file": "non_looped/o.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "P",
+			"file": "non_looped/p.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "Q",
+			"file": "non_looped/q.gif", 
+			"width" : "129"
+		},
+		{
+			"letter" : "R",
+			"file": "non_looped/r.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "S",
+			"file": "non_looped/s.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "T",
+			"file": "non_looped/t.gif", 
+			"width" : "118"
+		},
+		{
+			"letter" : "U",
+			"file": "non_looped/u.gif", 
+			"width" : "130"
+		},
+		{
+			"letter" : "V",
+			"file": "non_looped/v.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "W",
+			"file": "non_looped/w.gif", 
+			"width" : "156"
+		},
+		{
+			"letter" : "X",
+			"file": "non_looped/x.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "Y",
+			"file": "non_looped/y.gif", 
+			"width" : "125"
+		},
+		{
+			"letter" : "Z",
+			"file": "non_looped/z.gif", 
+			"width" : "115"
+		}
+	]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
